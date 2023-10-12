@@ -2,6 +2,8 @@
 A portfolio website is a curated, online space that showcases your best work.
 
 ![Screenshot 2023-10-13 003852](https://github.com/adeshdatir99ad/Portfolio/assets/63045592/87b1f2fb-ce4c-49f6-9b5f-d846f6f6907b)
+![Screenshot 2023-10-13 004401](https://github.com/adeshdatir99ad/Portfolio/assets/63045592/6755e735-3060-46c9-83a4-c85010568f47)
+![Screenshot 2023-10-13 004429](https://github.com/adeshdatir99ad/Portfolio/assets/63045592/752a5f2a-fbb0-4f46-b2be-cf14af320e7a)
 ![Screenshot 2023-10-13 003908](https://github.com/adeshdatir99ad/Portfolio/assets/63045592/991b7109-597c-405e-bc9f-d7c79df55ab1)
 ![Screenshot 2023-10-13 003924](https://github.com/adeshdatir99ad/Portfolio/assets/63045592/a62e403d-6318-439b-b418-8a132f0a0ff8)
 ![Screenshot 2023-10-13 003936](https://github.com/adeshdatir99ad/Portfolio/assets/63045592/46260d97-e1d1-4b89-a2d7-07eecbd19f39)
